@@ -1,0 +1,25 @@
+
+.parent {
+	display : flex;
+	flex-direction:row;
+	justify-content:center;
+}
+.child1{
+	width :30%;
+	margin :2%;
+	padding:2%;
+	border: 1px solid #ddd;
+}
+	.child2{
+		width :70%;
+		margin :2%;
+		padding :2%;
+		border: 1px solid #addd;
+	}
+h1{
+	text-align : center;
+}
+h4{
+	color: #ddd;
+}
+
